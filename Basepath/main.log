@@ -1,0 +1,796 @@
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+[TestNG] Running:
+  C:\Users\91813\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@6b760460: 0 ms
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@57adfab0: 0 ms
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@39dcf4b0: 0 ms
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@427b5f92: 0 ms
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@515ebef3: 1 ms
+suiteXmlPath: "C:\Users\91813\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+[TestNG] Running:
+  C:\Users\91813\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@5a6482a9: 30 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@7f9ab969: 0 ms
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\datadriven.xml"
+[Warning] The regular expression "login" didn't match any method in class testCases.DataDrivenLoginTest
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\datadriven.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@13e3c1c7: 0 ms
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\datadriven.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\datadriven.xml
+
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\datadriven.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\datadriven.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\datadriven.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\datadriven.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Ending Data Driven LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\datadriven.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\datadriven.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\datadriven.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\datadriven.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+login Successful......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+login Successful......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\datadriven.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\datadriven.xml
+
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+Parsing relationship: /xl/_rels/workbook.xml.rels
+Parsing relationship: /_rels/.rels
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+login Successful......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+Invalid Data......
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+login Successful......
+*******  Ending Data Driven LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+Invalid Data......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+[TestNG] Running:
+  C:\Users\91813\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+suiteXmlPath: "C:\Users\91813\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+[TestNG] Running:
+  C:\Users\91813\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\master.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml
+
+*******  Starting TC001_LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters username......
+Enters password......
+Enters password......
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+*******  Starting TC001_LoginTest  ******* 
+Enters password......
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters username......
+clicks login button......
+Enters password......
+Enters password......
+clicks login button......
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\crossBrowserTesting.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\grid-docker.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\grid-docker.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\grid-docker.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\grid-docker.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\grid-docker.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\grid-docker.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\grid-docker.xml"
+[TestNG] Running:
+  C:\Users\91813\IdeaProjects\Guru\grid-docker.xml
+
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 
+suiteXmlPath: "C:\Users\91813\IdeaProjects\Guru\master.xml"
+*******  Starting TC001_LoginTest  ******* 
+Enters username......
+Enters password......
+clicks login button......
+validates confirmation message......
+*******  Ending TC001_LoginTest  ******* 

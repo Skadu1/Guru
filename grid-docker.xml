@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" name="All Test Suite">
+    <groups>
+        <run>
+            <include name="sanity"/>
+            <include name="regression"/>
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="utilities.ExtendReportManager"/>
+    </listeners>
+    <test name="master test">
+        <parameter name="os" value="linux"/>
+        <parameter name="browser" value="chrome"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="testCases.LoginTest">
+            </class>
+        </classes>
+    </test>
+</suite>
