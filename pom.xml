@@ -18,16 +18,10 @@
         <!-- To define the plugin version in your parent POM -->
         <pluginManagement>
             <plugins>
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-compiler-plugin</artifactId>
-                    <version>3.13.0</version>
-                </plugin>
-            </plugins>
-        </pluginManagement>
+
 
         <!-- To use the plugin goals in your POM or parent POM -->
-        <plugins>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
@@ -36,10 +30,11 @@
                     <suiteXmlFiles>
                         <suiteXmlfile> master.xml</suiteXmlfile>
                     </suiteXmlFiles>
-
                 </configuration>
             </plugin>
+
         </plugins>
+        </pluginManagement>
 
     </build>
 
@@ -118,6 +113,13 @@
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
             <version>5.0.9</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.24</version> <!-- or the latest version -->
+            <scope>provided</scope>
         </dependency>
 
 
